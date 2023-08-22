@@ -23,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak-thakur&show_icons=true&locale=en" alt="vinayak-thakur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak-thakur&" alt="vinayak-thakur" /></p>
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/vinayakslc?theme=dark&font=Cambay&ext=heatmap" />
+</p>
