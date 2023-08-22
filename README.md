@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-thakur" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vinayaksig" target="blank"><img src="https://img.shields.io/twitter/follow/vianyaksig?logo=twitter&style=for-the-badge" alt="vianyaksig" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vinayaksig" target="blank"><img src="https://img.shields.io/twitter/follow/vianyaksig?logo=twitter&style=for-the-badge" alt="vinayaksig" /></a> </p>
 
 - 🌱 I’m currently learning **Data structures and Algorithms and CSS for frontend.**
 
