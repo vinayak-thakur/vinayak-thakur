@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vinayak Thakur</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+Vinayak)](https://git.io/typing-svg)
 <h3 align="center">I am a CS undergraduate currently studying in Bangalore,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-thakur" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vinayaksig" target="blank"><img src="https://img.shields.io/twitter/follow/vinayaksig?logo=twitter&style=for-the-badge" alt="vinayaksig" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures and Algorithms and CSS for frontend.**
+- 🌱 I’m currently learning **Data structures and Algorithms along with CSS.**
 
 - 📫 Reach me: **vinayak.cmrit@gmail.com**
 
